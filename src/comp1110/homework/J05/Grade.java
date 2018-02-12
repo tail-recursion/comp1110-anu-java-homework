@@ -18,6 +18,7 @@ public class Grade {
         else if (mark <= 49) System.out.println("N");
         else if (mark <= 59) System.out.println("P");
         else if (mark <= 69) System.out.println("C");
+        else if (mark <= 79) System.out.println("D");
         else System.out.println("HD");
     }
 }
