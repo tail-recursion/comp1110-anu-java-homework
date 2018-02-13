@@ -1,3 +1,10 @@
+### Java Exercises for COMP1110 at ANU
+
+TODO:
+
+* finish O04/Shape.java - square/circle intersection
+* implement voucherWaste() in J14/Cost.java
+
 ### Purpose
 
 These homework exercises are designed to help you learn.   You may do them at
